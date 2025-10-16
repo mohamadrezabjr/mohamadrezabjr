@@ -37,9 +37,7 @@
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mohamadrezabjr&show_icons=true&theme=tokyonight" />
 </p>
-<p align="center">
-  <img height="170em" src="https://github-readme-streak-stats.vercel.app/?user=mohamadrezabjr&theme=tokyonight" />
-</p>
+
 
 ---
 
